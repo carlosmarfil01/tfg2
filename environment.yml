@@ -7,5 +7,7 @@ dependencies:
   - ipycanvas
   - markovify
   - sklearn
-  
- 
+  - pandas
+  - xgboost
+  - statsmodel
+  - scipy
