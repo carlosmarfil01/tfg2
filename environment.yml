@@ -13,4 +13,4 @@ dependencies:
   - statsmodel
   - scipy
   - scikit-learn 
-  - scikit-optimize
+  - scikit-optimize 
