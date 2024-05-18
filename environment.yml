@@ -5,9 +5,3 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
-  - markovify
-  - sklearn
-  - pandas
-  - xgboost
-  - statsmodel
-  - scipy
