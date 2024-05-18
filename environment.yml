@@ -8,3 +8,4 @@ dependencies:
   - markovify
   - pandas
   - matplotlib
+  - scipy
