@@ -9,8 +9,4 @@ dependencies:
   - sklearn
   - pandas
   - xgboost
-  - matplotlib
-  - statsmodel
-  - scipy
-  - scikit-learn 
-  - scikit-optimize 
+ 
