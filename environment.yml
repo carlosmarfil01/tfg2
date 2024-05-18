@@ -7,4 +7,4 @@ dependencies:
   - ipycanvas
   - markovify
   - pandas
-  - statsmodel
+  - matplotlib
