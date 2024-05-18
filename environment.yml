@@ -6,4 +6,11 @@ dependencies:
   - xeus-python
   - ipycanvas
   - markovify
-  - plotly
+  - sklearn
+  - pandas
+  - xgboost
+  - matplotlib
+  - statsmodel
+  - scipy
+  - scikit-learn 
+  - scikit-optimize
